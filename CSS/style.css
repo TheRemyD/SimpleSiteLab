@@ -1,0 +1,47 @@
+body {
+    background: #87ceeb;
+    color: #fff;
+}
+
+.container {
+    border: 3px solid #5fcd76;
+    padding: 3rem;
+}
+
+a {
+    color: #4acc99;
+    font-weight: bold;
+    font-size: 1.10rem;
+    font-family: sans-serif;
+}
+
+.active {
+    color: white;
+    font-weight: bold;
+}
+img {
+    width: 20%;
+    float: right;
+}
+
+header, footer {
+    text-align: center;
+    clear: both;
+}
+
+.navigation {
+    color: #808080;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+section p {
+    line-height: 150%;
+}
